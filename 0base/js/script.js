@@ -20,5 +20,7 @@ $(function () {
   // $(".blue-box").hide();
   // $(".blue-box").toggle();
 
-
+  $(".blue-box").slideUp(2000);
+  $(".red-box").slideDown(2000);
+  $(".red-box").slideToggle(2000);
 });
