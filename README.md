@@ -2,11 +2,8 @@
 Khóa học jQuery mà mình đã hoàn thành (11/06/2021 - ...)
 
 
-# jQuery Code Snippets
+[jQuery online course](https://www.udemy.com/jquery-tutorial/?couponCode=GITHUB10)
 
-These code snippets are based on the code developed in my [jQuery online course](https://www.udemy.com/jquery-tutorial/?couponCode=GITHUB10), with thorough documentation to recap each function and how it's used.
-
-The prefixes of the folders indicate which course section they correspond to:
 
 ## Section 1: Intro
 
